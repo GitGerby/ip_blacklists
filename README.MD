@@ -2,4 +2,4 @@ Blacklist generated from RDP and Firewall logs based on IPs that have generated 
 
 This list is automatically generated hourly.
 
-Last run: 01/10/2019 12:55:08 UTC
+Last run: 01/10/2019 13:55:08 UTC
